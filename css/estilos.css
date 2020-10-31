@@ -6,6 +6,23 @@ body{
     font-family: "Arial";
     font-size: 16px;
 
+
+}
+#cabecera 
+{
+    background: #33A;
+    box-shadow: 0 px 2px 20px 0px rgba(0,0,0,0.5);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+}
+#cabecera #tagline
+{
+    padding: 0 0 0 1em;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
 }
 #container
 {
